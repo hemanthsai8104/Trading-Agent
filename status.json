@@ -1,0 +1,149 @@
+{
+    "TSLA": {
+        "rsi": 59.040590405904055,
+        "current_price": 461.51,
+        "short_ma": 439.721,
+        "long_ma": 405.5872,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "NVDA": {
+        "rsi": 62.88512911843278,
+        "current_price": 207.04,
+        "short_ma": 186.86,
+        "long_ma": 180.81920000000002,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "AMZN": {
+        "rsi": 52.69360269360269,
+        "current_price": 230.3,
+        "short_ma": 221.0875,
+        "long_ma": 225.06459999999998,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bearish Trend (MA Cross). Waiting for reversal.",
+        "action": "HOLD"
+    },
+    "GOOGL": {
+        "rsi": 78.12393598910455,
+        "current_price": 274.57,
+        "short_ma": 251.91749999999996,
+        "long_ma": 240.585,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "MSFT": {
+        "rsi": 69.96871741397285,
+        "current_price": 541.55,
+        "short_ma": 521.2194999999999,
+        "long_ma": 513.1532,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "AAPL": {
+        "rsi": 67.1635247698378,
+        "current_price": 269.7,
+        "short_ma": 257.1785,
+        "long_ma": 246.4312,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "NKE": {
+        "rsi": 40.887693342299904,
+        "current_price": 65.35,
+        "short_ma": 68.59299999999999,
+        "long_ma": 71.7602,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bearish Trend (MA Cross). Waiting for reversal.",
+        "action": "HOLD"
+    },
+    "PYPL": {
+        "rsi": 37.63747454175155,
+        "current_price": 69.68,
+        "short_ma": 70.2475,
+        "long_ma": 69.0228,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "META": {
+        "rsi": 59.11280610196707,
+        "current_price": 751.67,
+        "short_ma": 725.95125,
+        "long_ma": 742.04,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bearish Trend (MA Cross). Waiting for reversal.",
+        "action": "HOLD"
+    },
+    "JPM": {
+        "rsi": 49.98141263940522,
+        "current_price": 305.51,
+        "short_ma": 303.015,
+        "long_ma": 304.0892,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bearish Trend (MA Cross). Waiting for reversal.",
+        "action": "HOLD"
+    },
+    "GS": {
+        "rsi": 50.95785440613024,
+        "current_price": 783.06,
+        "short_ma": 773.8824999999999,
+        "long_ma": 770.8418,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "MU": {
+        "rsi": 70.39724072312082,
+        "current_price": 226.63,
+        "short_ma": 199.864,
+        "long_ma": 165.5066,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "MA": {
+        "rsi": 43.766412404651774,
+        "current_price": 554.58,
+        "short_ma": 568.289,
+        "long_ma": 577.9872,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bearish Trend (MA Cross). Waiting for reversal.",
+        "action": "HOLD"
+    },
+    "WMT": {
+        "rsi": 51.896646509070905,
+        "current_price": 102.46,
+        "short_ma": 104.61599999999999,
+        "long_ma": 102.41019999999999,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "PEP": {
+        "rsi": 53.30597355221154,
+        "current_price": 146.16,
+        "short_ma": 148.41000000000003,
+        "long_ma": 145.94119999999998,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "V": {
+        "rsi": 43.52226720647768,
+        "current_price": 341.28,
+        "short_ma": 346.026,
+        "long_ma": 344.8226,
+        "status": "Looking for a buy opportunity.",
+        "reason": "Bullish Trend, but no Golden Cross signal.",
+        "action": "HOLD"
+    },
+    "_summary": {
+        "message": "Analysis done. Agent is sleeping for 5 minutes..."
+    }
+}

@@ -1,0 +1,8 @@
+# requirements.txt
+alpaca-py
+pandas
+numpy
+python-dotenv
+yfinance
+supabase
+flask

@@ -1,0 +1,6 @@
+{
+    "SHORT_WINDOW": 20,
+    "LONG_WINDOW": 50,
+    "TAKE_PROFIT_THRESHOLD": 3.0,
+    "STOP_LOSS_THRESHOLD": 2.0
+}
